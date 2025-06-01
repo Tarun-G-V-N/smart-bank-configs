@@ -1,0 +1,10 @@
+build:
+  version: "4.0"
+cards:
+  message: "Welcome to smart Bank customer service related Prod APIs"
+  contactDetails:
+    name: "Tarun"
+    email: "tarun@dev.com"
+  supportContacts:
+    - +91-1234567890
+    - +91-1234567891
