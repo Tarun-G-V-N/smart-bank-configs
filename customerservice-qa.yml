@@ -1,6 +1,6 @@
 build:
   version: "4.1"
-cards:
+customers:
   message: "Welcome to smart Bank customer service related QA APIs"
   contactDetails:
     name: "Tarun"

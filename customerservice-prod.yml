@@ -1,6 +1,6 @@
 build:
   version: "4.0"
-cards:
+customers:
   message: "Welcome to smart Bank customer service related Prod APIs"
   contactDetails:
     name: "Tarun"
